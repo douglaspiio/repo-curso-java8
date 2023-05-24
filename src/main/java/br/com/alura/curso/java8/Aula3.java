@@ -4,7 +4,7 @@ import java.util.ArrayList;
 import java.util.Comparator;
 import java.util.List;
 
-public class Alura3 {
+public class Aula3 {
 	
 	//method reference
 	
